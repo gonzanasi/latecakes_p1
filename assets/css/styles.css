@@ -164,7 +164,7 @@
         transition: all .4s;
     }
     .tarj-list img:hover{
-        width: ;: 100px;
+        width: 100px;
         transform: translate(0px,10px);
     }
 /*----------------------------------*/
