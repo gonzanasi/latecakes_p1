@@ -152,7 +152,21 @@
         text-align: center;
     }
     
-}
+    .bank-list img{
+        transition: all .4s;
+    }
+    .bank-list img:hover{
+        width: 100;
+        transform: translate(0px,10px);
+    }
+    
+    .tarj-list img{
+        transition: all .4s;
+    }
+    .tarj-list img:hover{
+        width: ;: 100px;
+        transform: translate(0px,10px);
+    }
 /*----------------------------------*/
 /*----------------------------------*/
 *{
