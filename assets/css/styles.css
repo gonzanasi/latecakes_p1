@@ -715,6 +715,7 @@ form{
 	margin:auto;
 	background-color:#ccbfb1;
     margin-top: 70px;
+    box-shadow: 4px 4px 11px 2px rgba(0,0,0,0.1);
 }
 
 form label{
